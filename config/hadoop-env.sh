@@ -23,7 +23,7 @@
 
 # The java implementation to use.
 # export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64
-export JAVA_HOME=/usr/lib/jvm/jdk1.7.0_80
+#export JAVA_HOME=/usr/lib/jvm/jdk1.7.0_80
 
 # The jsvc implementation to use. Jsvc is required to run secure datanodes
 # that bind to privileged ports to provide authentication of data transfer
